@@ -1,7 +1,5 @@
 # Curated samples (good vs bad)
-
-Goal: build a small, high-quality reference set of vehicle exhaust smoke examples for (a) training and (b) user guidance.
-
+Goal: build a small, high-quality internal reference set (ground truth) for validation/testing and sanity checking. This is primarily internal test data (not user-facing guidance).
 ## Sources
 - Roboflow Universe: Vehicle smoke pollution dataset (images + annotations) https://universe.roboflow.com/ta-gomsn/vehicle-smoke-pollution
 - Roboflow Universe: Vehicle smoke pollution dataset v18 (downloads in many formats) https://universe.roboflow.com/ta-gomsn/vehicle-smoke-pollution/dataset/18
@@ -31,7 +29,6 @@ Goal: build a small, high-quality reference set of vehicle exhaust smoke example
 - Keep them listed here first (no need to commit large media files yet).
 
 ## Curated example links (seed)
-
 ### Good examples
 - Clear rear view, exhaust visible, thick black smoke: https://www.example.com/good/black-smoke-rear-view
 - Rear view, exhaust + white smoke visible: https://www.example.com/good/white-smoke
@@ -43,7 +40,6 @@ Goal: build a small, high-quality reference set of vehicle exhaust smoke example
 - Wrong subject (bonfire smoke): https://www.example.com/bad/bonfire
 
 ## Curated example links (real)
-
 ### Good examples
 - https://images.pexels.com/photos/5233283/pexels-photo-5233283.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
 - https://images.pexels.com/photos/5233282/pexels-photo-5233282.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
