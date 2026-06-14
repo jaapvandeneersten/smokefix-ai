@@ -29,3 +29,15 @@ Goal: build a small, high-quality reference set of vehicle exhaust smoke example
 ## Next step
 - Pick 20 good and 20 bad links from the sources above.
 - Keep them listed here first (no need to commit large media files yet).
+
+## Curated example links (seed)
+
+### Good examples
+- Clear rear view, exhaust visible, thick black smoke: https://www.example.com/good/black-smoke-rear-view
+- Rear view, exhaust + white smoke visible: https://www.example.com/good/white-smoke
+- Close exhaust shot with visible smoke plume: https://www.example.com/good/close-exhaust
+
+### Bad examples
+- Dust cloud behind vehicle (reject): https://www.example.com/bad/dust-cloud
+- Night glare/headlights flaring (reject): https://www.example.com/bad/night-glare
+- Wrong subject (bonfire smoke): https://www.example.com/bad/bonfire
