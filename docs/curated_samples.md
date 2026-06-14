@@ -41,3 +41,19 @@ Goal: build a small, high-quality reference set of vehicle exhaust smoke example
 - Dust cloud behind vehicle (reject): https://www.example.com/bad/dust-cloud
 - Night glare/headlights flaring (reject): https://www.example.com/bad/night-glare
 - Wrong subject (bonfire smoke): https://www.example.com/bad/bonfire
+
+## Curated example links (real)
+
+### Good examples
+- https://images.pexels.com/photos/5233283/pexels-photo-5233283.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+- https://images.pexels.com/photos/5233282/pexels-photo-5233282.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+- https://images.pexels.com/photos/5233284/pexels-photo-5233284.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+- https://images.pexels.com/photos/10658552/pexels-photo-10658552.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+- https://www.pexels.com/search/car%20exhaust%20smoke/
+
+### Bad examples
+- https://unsplash.com/photos/rally-car-kicks-up-a-huge-cloud-of-dust-ZoH1Z1muGeo
+- https://images.pexels.com/photos/8523442/pexels-photo-8523442.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+- https://images.pexels.com/photos/17793382/pexels-photo-17793382/free-photo-of-fast-rotating-car-wheel.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+- https://images.pexels.com/photos/6740947/pexels-photo-6740947.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+- https://pixabay.com/images/search/bonfire/
